@@ -1,0 +1,26 @@
+# --- LangChain Core & Community ---
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-core>=0.3.0
+langchain-classic
+
+# --- Vector Database & Embeddings ---
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.1.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# --- Document Processing ---
+pypdf>=4.0.0
+python-docx>=1.1.0
+
+# --- Retrieval Algorithms ---
+rank_bm25>=0.2.2
+
+# --- AI Models & Infrastructure ---
+transformers>=4.40.0
+torch>=2.0.0
+torchvision
+torchaudio
+accelerate
+streamlit>=1.0.0
